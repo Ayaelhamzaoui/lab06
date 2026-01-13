@@ -191,7 +191,7 @@ l’écart avec les distributions d’entraînement.
 
 Cette étape est essentielle dans une démarche MLOps avancée.
 
-✅ Résultats obtenus
+## Résultats obtenus
 
 À l’issue de ce laboratoire, le système présente :
 
